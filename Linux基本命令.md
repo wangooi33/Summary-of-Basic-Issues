@@ -44,15 +44,15 @@
 
 **-j             :使用bzip2压缩法创建归档文件**
 
-**tar  czf  a.tar.gz  dir/\*   :*将目录dir中的所有文件归档并压缩为gz格式**
+**tar  czf  a.tar.gz  dir/\*   :将目录dir中的所有文件归档并压缩为gz格式**
 
-**tar  xzf  a.tar.gz       :*解压压缩文件a.tar.gz**
+**tar  xzf  a.tar.gz       :解压压缩文件a.tar.gz**
 
-**tar  cjf  a.tar.bz2  dir/\*    :*将目录dir中的所有文件归档并压缩为bz2格式**
+**tar  cjf  a.tar.bz2  dir/\*    :将目录dir中的所有文件归档并压缩为bz2格式**
 
-**tar  xjf  a.tar.bz2       :*解压压缩文件a.tar.bz2**
+**tar  xjf  a.tar.bz2       :解压压缩文件a.tar.bz2**
 
-**which ls            :*查看指令ls的绝对路径**
+**which ls            :查看指令ls的绝对路径**
 
 **file**  **文件名          :查看文件类型**
 
