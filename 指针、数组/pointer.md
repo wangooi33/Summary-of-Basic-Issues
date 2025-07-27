@@ -56,6 +56,6 @@
 
 ![image-20250622185303317](./pointer.assets/image-20250622185303317.png)
 
-![image-20250622185308918](./pointer.assets/image-20250622185308918.png)
+![](./pointer.assets/image-20250622185308918.png)
 
 ![image-20250622201522419](./pointer.assets/image-20250622201522419.png)

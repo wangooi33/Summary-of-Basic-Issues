@@ -1,3 +1,5 @@
+**库的配置:  ./configure --prefix=/home/wang/Desktop/test/yizhi/libjpeg --host=arm-linux**
+
 **sudo su root               :切换超级用户**
 
 **mkdir   目录名          :创建目录**
@@ -99,3 +101,7 @@
 **ipcmk					：创建IPC对象  （man 1 ipcmk）** 
 
 **uname  -a				：查看系统位数**
+
+**./process  &				:后台运行**
+
+**cat /proc/locks			：查看Linux死锁记录**
