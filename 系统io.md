@@ -12,7 +12,7 @@ close(lcd_fl);
 
 ## 3.read( )
 
-![image-20250708095547235](./系统io.assets/image-20250708095547235.png)
+![image-20250708095547235](./assets/系统io.assets/image-20250708095547235.png)
 
 ## 4.write( )
 
@@ -22,7 +22,7 @@ write(lcd_fd,colorbuff,800*480*4);
 
 ## 5.lseek( )
 
-![image-20250708095801817](./系统io.assets/image-20250708095801817.png)
+![image-20250708095801817](./assets/系统io.assets/image-20250708095801817.png)
 
 ## 6.ioctl( )
 
@@ -39,7 +39,7 @@ ioctl(lcd_fl,FBIOGET_VSCREENINFO,&lcd_vinfo);
 
 ## 7.mmap( )
 
-![image-20250708101457693](./系统io.assets/image-20250708101457693.png)
+![image-20250708101457693](./assets/系统io.assets/image-20250708101457693.png)
 
 ```c
 int lcd_fd = open("/dev/fb0",O_RDWR);

@@ -1,6 +1,6 @@
 ## 1.fopen( )
 
-![image-20250708091507394](./标准io.assets/image-20250708091507394.png)
+![image-20250708091507394](./assets/标准io.assets/image-20250708091507394.png)
 
 ```c
 FILE *src_fp = fopen(argv[1],"rb");
@@ -12,7 +12,7 @@ FILE *src_fp = fopen(argv[1],"rb");
 
 ### （1）字符读取
 
-![image-20250708092033200](./标准io.assets/image-20250708092033200.png)
+![image-20250708092033200](./assets/标准io.assets/image-20250708092033200.png)
 
 ```c
 int ch=fgetc(file);//注意返回类型
@@ -25,13 +25,13 @@ while(ch !=EOF)
 
 ### （2）按行读取
 
-![image-20250708092259789](./标准io.assets/image-20250708092259789.png)
+![image-20250708092259789](./assets/标准io.assets/image-20250708092259789.png)
 
 读取到换行符\n时会结束
 
 ### （3）按块读取
 
-![image-20250708092700664](./标准io.assets/image-20250708092700664.png)
+![image-20250708092700664](./assets/标准io.assets/image-20250708092700664.png)
 
 ```c
 //6.循环写入目标文件
@@ -48,29 +48,29 @@ while(loop_cnt--)
 
 ### （1）字符写入
 
-![image-20250708093202698](./标准io.assets/image-20250708093202698.png)
+![image-20250708093202698](./assets/标准io.assets/image-20250708093202698.png)
 
 ### （2）按行写入
 
-![image-20250708093214254](./标准io.assets/image-20250708093214254.png)
+![image-20250708093214254](./assets/标准io.assets/image-20250708093214254.png)
 
 ### （3）按块写入
 
-![image-20250708093225321](./标准io.assets/image-20250708093225321.png)
+![image-20250708093225321](./assets/标准io.assets/image-20250708093225321.png)
 
 ## 4.fclose( )
 
-![image-20250708093920621](./标准io.assets/image-20250708093920621.png)
+![image-20250708093920621](./assets/标准io.assets/image-20250708093920621.png)
 
 ## 5.位移
 
 ### （1）设置位移
 
-![image-20250708094022507](./标准io.assets/image-20250708094022507.png)
+![image-20250708094022507](./assets/标准io.assets/image-20250708094022507.png)
 
 ### （2）获取位移
 
-![image-20250708094139614](./标准io.assets/image-20250708094139614.png)
+![image-20250708094139614](./assets/标准io.assets/image-20250708094139614.png)
 
 ```c
 //4.偏移光标到尾为了计算大小，再偏移光标到头

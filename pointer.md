@@ -46,16 +46,16 @@
 
 ### 练习：
 
-![image-20250622183327835](./pointer.assets/image-20250622183327835.png)
+![image-20250622183327835](./assets/pointer.assets/image-20250622183327835.png)
 
-![image-20250622183335257](./pointer.assets/image-20250622183335257.png)
+![image-20250622183335257](./assets/pointer.assets/image-20250622183335257.png)
 
-![image-20250622183346579](./pointer.assets/image-20250622183346579.png)
+![image-20250622183346579](./assets/pointer.assets/image-20250622183346579.png)
 
-![image-20250622183524975](./pointer.assets/image-20250622183524975.png)
+![image-20250622183524975](./assets/pointer.assets/image-20250622183524975.png)
 
-![image-20250622185303317](./pointer.assets/image-20250622185303317.png)
+![image-20250622185303317](./assets/pointer.assets/image-20250622185303317.png)
 
-![](./pointer.assets/image-20250622185308918.png)
+![](./assets/pointer.assets/image-20250622185308918.png)
 
-![image-20250622201522419](./pointer.assets/image-20250622201522419.png)
+![image-20250622201522419](./assets/pointer.assets/image-20250622201522419.png)
